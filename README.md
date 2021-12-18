@@ -1,0 +1,2 @@
+# akashicprotocol
+The Akashic Protocol Project is a Consensus-Based Decentralized Fact-Checking Protocol which will serve as an uncensored source for factual information. The platform will serve as a human-consumable source for information, repository for fact checked data (serve as machine learning certified data source), as well as many other use cases where the need for fact checked &amp; categorized data is a requirement. The ultimate goal being the creation of The Akashic Protocol API.
